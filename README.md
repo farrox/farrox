@@ -24,6 +24,12 @@ Building **800G/1.6T intrarack optical links** at AWS: link validation (100G/lan
 
 **Apple:** Silicon photonics lead for camera sensing R&D (OCT, coherent imaging).
 
+Patent applications:
+
+- Depth sensing using multiple coherent emitters with interleaved VCSEL/detector arrays, [WO2024177716A1](https://patents.google.com/patent/WO2024177716A1), 2024
+- Coherent optical waveguide for wearable biometric sensing, [US20240057896A1](https://patents.google.com/patent/US20240057896A1), 2024
+- LiDAR array with vertically-coupled transceivers, [US20230366986A1](https://patents.google.com/patent/US20230366986A1), 2023
+
 **Analog Photonics:** Co-authored the winning AIM Photonics institute proposal ($600M+ Manufacturing USA); primary author of the first industry PDK at AIM; 400G-FR4 silicon photonics transceivers (OFC 2019); chip-scale WDM and switched-array LiDAR architectures.
 
 **MIT:** CMOS-compatible erbium DFB/DBR lasers, Ge-on-Si photodetectors (50 GHz, ~1 A/W); contributions to *Nature* (2013) optical phased array and *Nature Communications* (2014) athermal modulator work.
